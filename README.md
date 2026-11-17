@@ -385,7 +385,6 @@ Para quem está construindo uma trajetória profissional em Infraestrutura de TI
 - Documentação oficial do Vim: https://www.vim.org/docs.php
 - Wiki do Vim: https://vim.fandom.com/wiki/Vim_Tips_Wiki
 - Site oficial do GNU Nano: https://www.nano-editor.org/
-- Documentação Ubuntu: https://help.ubuntu.com/
 - Linux Documentation Project: https://tldp.org/
 
 ## 🛠️ Tecnologias e ferramentas
